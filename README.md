@@ -1,29 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on **finding job**
-
 - 🌱 I’m currently learning **c++**
 
-- 👯 I’m looking to collaborate on **various projects**
-
-- 🤝 I’m looking for help with **experience**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Alisher7172](https://github.com/Alisher7172)
-
-- 📝 I regularly write articles on [#](#)
-
-- 💬 Ask me about **JavaScript, PHP**
 
 - 📫 How to reach me **alisher20021212@gmail.com**
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
 
-- ⚡ Fun fact **I think I can code**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alishersila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alishersila" height="30" width="40" /></a>
+<a href="https://twitter.com/alishersila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alishersila" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alisher-sobitaliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-sobitaliyev" height="30" width="40" /></a>
 <a href="https://fb.com/alisherfacebook2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alisherfacebook2025" height="30" width="40" /></a>
 <a href="https://instagram.com/alisher_12_12_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisher_12_12_2002" height="30" width="40" /></a>
