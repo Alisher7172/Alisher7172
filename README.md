@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/alishersila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alishersila" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alisher-sobitaliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-sobitaliyev" height="30" width="40" /></a>
-<a href="https://fb.com/alisherfacebook2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alisherfacebook2025" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1G96mtMFCq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alisherfacebook2025" height="30" width="40" /></a>
 <a href="https://instagram.com/alisher_12_12_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisher_12_12_2002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alisher7172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alisher7172" height="30" width="40" /></a>
 </p>
@@ -31,7 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </p>
 
 ---
