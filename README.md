@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alisher20021212@gmail.com**
 
-- 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
+- 📄 Know about my experiences https://my-portfolio-php.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
