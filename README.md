@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **c++** && **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alisher7172](https://github.com/Alisher7172)
 
