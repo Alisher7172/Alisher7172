@@ -35,10 +35,6 @@
 
 ---
 
-### 📈 Most Used Languages (Dynamic)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher7172&layout=compact&theme=dark&langs_count=6&hide=Jupyter%20Notebook,Vim%20Script,TeX)](https://github.com/Alisher7172)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisher7172&" alt="alisher7172" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisher7172&label=Profile%20views&color=0e75b6&style=flat" alt="alisher7172" /> </p>
