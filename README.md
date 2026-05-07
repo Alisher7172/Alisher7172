@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Python** && **Java**
+- 🌱 I’m currently working as freelancer
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alisher7172](https://github.com/Alisher7172)
 
@@ -19,7 +19,6 @@
 </p>
 
 ## 🛠️ Languages and Tools:
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
