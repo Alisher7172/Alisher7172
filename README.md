@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alisher20021212@gmail.com**
 
-- 📄 Know about my experiences https://my-portfolio-php.netlify.app/
+- 📄 Know about my experiences https://alisher-portfolio-theta.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
