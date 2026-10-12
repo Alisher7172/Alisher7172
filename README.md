@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently working as freelancer
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alisher7172](https://github.com/Alisher7172)
-
 - 📫 How to reach me **alisher20021212@gmail.com**
 
 - 📄 Know about my experiences https://alisher-portfolio-theta.vercel.app/
